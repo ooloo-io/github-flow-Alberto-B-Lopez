@@ -11,7 +11,7 @@ body {
   border-bottom: 1px solid black;
 }
 .footer {
-  height: 50px;
+  height: 49px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -19,4 +19,6 @@ body {
 }
 .content {
   min-height: calc(100vh - 100px);
+  width: 720px;
+  margin: auto;
 }
